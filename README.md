@@ -26,6 +26,16 @@ This repository is built for creators, marketers, agencies, e-commerce teams, Yo
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI music video prompts](https://github.com/cliprise/awesome-ai-music-video-prompts) - visualizers, lyric-forward motion, and release creative prompts.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is
 
 This repository is a practical prompt and workflow library for users searching for:
