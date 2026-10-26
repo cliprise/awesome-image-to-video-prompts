@@ -1,5 +1,6 @@
 # Awesome Image-to-Video Prompts, AI Photo Animation Workflows and Motion-First Video Templates
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A practical, research-informed and SEO-friendly GitHub resource for **image-to-video prompts**, **AI image-to-video workflows**, **photo-to-video prompts**, **AI photo animation prompts**, **image animation prompts**, **AI video from image workflows**, **AI product video prompts**, **AI video ad prompts**, **AI social video prompts**, **AI camera movement prompts**, **source image preparation**, and production-ready motion-first prompt systems.
 
 This repository is built for creators, marketers, agencies, e-commerce teams, YouTubers, TikTok creators, designers, product teams, musicians, educators and founders who want to turn still images into useful AI videos without wasting credits on random motion artifacts.
